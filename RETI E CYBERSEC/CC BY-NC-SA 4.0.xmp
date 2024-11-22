@@ -10,7 +10,7 @@
                     <rdf:li>Gianluca Branzu Buttigliero</rdf:li>
                 </rdf:Bag>
             </xapRights:Owner>
-            <xapRights:WebStatement rdf:resource='https://github.com/Branzu/appunti_uni/Appunti RETI DI CALCOLATORI E CYBERSECURITY - 0312212INF01II By Branzu.pdf'/>
+            <xapRights:WebStatement rdf:resource='https://github.com/Branzu/appunti_uni/RETI E CYBERSEC/Appunti RETI DI CALCOLATORI E CYBERSECURITY - 0312212INF01II By Branzu.pdf'/>
             <xapRights:UsageTerms>
                 <rdf:Alt>
                   <rdf:li xml:lang='x-default'>This work is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International&lt;/a&gt;</rdf:li>
